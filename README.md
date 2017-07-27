@@ -1,7 +1,5 @@
 # RatioImageView
 
-![RatioImageView演示gif](https://github.com/Bakumon/NumberAnimTextView/raw/master/gif/GIF.gif)
-
 ## Usage
 
 ```xml
