@@ -6,7 +6,6 @@
 <me.bakumon.library.RatioImageView
     android:layout_width="match_parent"
     android:layout_height="0dp"
-    android:background="@color/colorAccent"
     app:dimensionRatio="3:1" />
 ```
 
@@ -17,8 +16,8 @@
 
 |宽高设置|说明|
 |--|--|
-|android:layout_width="0dp|以高为基准|
-|android:layout_height="0dp|以宽为基准|
+|`android:layout_width="0dp"`|以高为基准|
+|`android:layout_height="0dp"`|以宽为基准|
 
 #### Step 2：
 
